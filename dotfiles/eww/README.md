@@ -12,7 +12,7 @@
 
 <div align="center">
 
-![clockeww1](../images/clock/swappy-20260214-194559.png)
+![clockeww1](../../images/clock/swappy-20260214-194559.png)
 
 *Clock 1*
 
