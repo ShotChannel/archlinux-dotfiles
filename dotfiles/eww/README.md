@@ -22,8 +22,6 @@
 
 <br>
 
-*[The eww project](https://github.com/elkowar/eww)*
-
 ### 1. Fully upgrade the system (recommended)
 
 ```
@@ -31,6 +29,8 @@ sudo pacman -Syu && yay && flatpak upgrade
 ```
 
 ### 2. Install eww
+*[The eww project](https://github.com/elkowar/eww)*
+
 <br>
 
 > **Option 1: Through the AUR helper**
