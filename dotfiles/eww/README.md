@@ -47,7 +47,7 @@ cd eww
 makepkg -si
 ```
 
-### 3. Git clone this repository (skip if already done)
+### 3. Clone this repository (skip if already done)
 
 ```
 git clone https://github.com/ShotChannel/archlinux-dotfiles.git
