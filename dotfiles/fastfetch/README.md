@@ -12,7 +12,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 <br>
 
-![fastfetch1](../images/fastfetch/swappy-20260214-204252.png)
+![fastfetch1](../../images/fastfetch/swappy-20260214-204252.png)
 
 </div>
 
