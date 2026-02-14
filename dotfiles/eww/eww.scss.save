@@ -1,0 +1,21 @@
+{
+    all: unset;
+}
+
+.clock-widget {
+    background-color: transparent;
+    
+    .time {
+        font-size: 120px;
+        font-weight: 300;
+        color: white;
+        text-shadow: 2px 2px 8px rgba(0,0,0,0.6);
+        font-family: "Sans";
+        letter-spacing: -2px;
+    }
+    
+    .date {
+        font-size: 22px;
+        color: rgba(255,255,255,0.95);
+        text-shadow: 1px 1px 4px rgba(0,0,0,0.5);
+        margin-top:

@@ -1,0 +1,26 @@
+* {
+    all: unset;
+}
+
+.clock-widget {
+    background-color: transparent;
+}
+
+.time {
+    font-size: 120px;
+    font-weight: 300;
+    color: #07536E;
+    font-family: "Google Sans Flex";
+    text-shadow: 1px 1px 1px rgba(200,200,200,0.6);
+    font-weight: 100;
+    letter-spacing: -6px;
+}
+
+.date {
+    font-size: 22px;
+    color: #07536E;
+    text-shadow: 1px 1px 1px rgba(200,200,200,0.5);
+    margin-top: -15px;
+    font-family: "Sans";
+    font-weight: 400;
+}
