@@ -39,7 +39,7 @@ sudo pacman -Syu && yay && flatpak upgrade
 yay -S eww
 ```
 
-> **Option 2: Manually build the package**
+> **Option 2: Manually build the package from source**
 
 ```
 git clone https://aur.archlinux.org/eww.git
