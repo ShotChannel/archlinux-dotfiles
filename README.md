@@ -16,7 +16,7 @@
 This is my dotfiles for my current Arch Linux setup.\
 I will throw random things here for backup (I seriously took a lesson from the latest Fedora incident, if you know you know >x&lt;).
 
-**Some of these dotfiles were created by me, some were inspired by others, and some are modifications of existing works. All are distributed under the GNU General Public License version 2 (GPLv2).**
+**Some of these dotfiles were created by me, some were inspired by others, and some are modifications of existing works. All are distributed under the MIT License.**
 
 ```
 sudo pacman -Syu && yay && flatpak upgrade
