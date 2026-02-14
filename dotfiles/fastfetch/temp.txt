@@ -1,0 +1,1 @@
+placeholder file for the dotfiles/fastfetch folder
