@@ -1,0 +1,88 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/master/doc/json_schema.json",
+  "logo": {
+    "source": "auto",
+  },
+  "modules": [
+    {
+      "type": "custom",
+      "format": " ",
+    },
+    {
+      "type": "title",
+      "key": "ユーザー",
+    },
+    {
+      "type": "os",
+      "key": "オペレーティング·システム",
+      "keyColor": "blue",
+    },
+    {
+      "type": "host",
+      "key": "ホスト名",
+      "keyColor": "yellow",
+    },
+    {
+      "type": "kernel",
+      "key": "カーネル",
+      "keyColor": "magenta",
+    },
+    "separator",
+    {
+      "type": "uptime",
+      "format": "{days} days, {hours} hours, {minutes} minutes",
+      "key": "稼働時間",
+    },
+    {
+      "type": "packages",
+      "key": "パッケージ",
+    },
+    {
+      "type": "terminal",
+      "key": "ターミナル",
+    },
+    {
+      "type": "shell",
+      "key": "シェル",
+    },
+    "separator",
+    {
+      "type": "de",
+      "key": "デスクトップ環境",
+      "keyColor": "blue",
+    },
+    {
+      "type": "wm",
+      "key": "ウィンドウマネージャ",
+      "keyColor": "blue",
+    },
+    {
+      "type": "wmtheme",
+      "key": "ウィンドウマネージャーのテーマ",
+      "keyColor": "blue",
+    },
+    "separator",
+    {
+      "type": "cpu",
+      "key": "CPU",
+      "keyColor": "red",
+    },
+    {
+      "type": "gpu",
+      "key": "GPU",
+      "keyColor": "red",
+    },
+    {
+      "type": "memory",
+      "key": "メモリ",
+      "keyColor": "red",
+    },
+    {
+      "type": "disk",
+      "key": "ディスク",
+      "keyColor": "red",
+    },
+    "break",
+    "colors",
+  ],
+}
